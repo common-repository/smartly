@@ -1,0 +1,327 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smartly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 09:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4"
+
+#: includes/admin-pages.php:11 includes/admin/admin-pages.php:12
+msgid "Smartly Settings"
+msgstr ""
+
+#: includes/admin-pages.php:11 includes/admin/admin-pages.php:12
+#: includes/admin/settings/display-settings.php:18
+msgid "Settings"
+msgstr ""
+
+#: includes/post-types.php:13
+#, php-format
+msgctxt "smartly post type name"
+msgid "%2$s"
+msgstr ""
+
+#: includes/post-types.php:14
+#, php-format
+msgctxt "singular smartly post type name"
+msgid "%1$s"
+msgstr ""
+
+#: includes/post-types.php:15
+msgid "Add New"
+msgstr ""
+
+#: includes/post-types.php:16
+#, php-format
+msgid "Add New %1$s"
+msgstr ""
+
+#: includes/post-types.php:17
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: includes/post-types.php:18
+#, php-format
+msgid "New %1$s"
+msgstr ""
+
+#: includes/post-types.php:19
+#, php-format
+msgid "All %2$s"
+msgstr ""
+
+#: includes/post-types.php:20
+#, php-format
+msgid "View %1$s"
+msgstr ""
+
+#: includes/post-types.php:21
+#, php-format
+msgid "Search %2$s"
+msgstr ""
+
+#: includes/post-types.php:22
+#, php-format
+msgid "No %2$s found"
+msgstr ""
+
+#: includes/post-types.php:23
+#, php-format
+msgid "No %2$s found in Trash"
+msgstr ""
+
+#: includes/post-types.php:25
+#, php-format
+msgctxt "smartly post type menu name"
+msgid "%2$s"
+msgstr ""
+
+#: includes/post-types.php:26
+#, php-format
+msgid "%1$s Image"
+msgstr ""
+
+#: includes/post-types.php:27
+#, php-format
+msgid "Set %1$s Image"
+msgstr ""
+
+#: includes/post-types.php:28
+#, php-format
+msgid "Remove %1$s Image"
+msgstr ""
+
+#: includes/post-types.php:29
+#, php-format
+msgid "Use as %1$s Image"
+msgstr ""
+
+#: includes/post-types.php:30
+#, php-format
+msgid "%1$s Attributes"
+msgstr ""
+
+#: includes/post-types.php:31
+#, php-format
+msgid "Filter %2$s list"
+msgstr ""
+
+#: includes/post-types.php:32
+#, php-format
+msgid "%2$s list navigation"
+msgstr ""
+
+#: includes/post-types.php:33
+#, php-format
+msgid "%2$s list"
+msgstr ""
+
+#: includes/post-types.php:67
+#, php-format
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr ""
+
+#: includes/post-types.php:68
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "%s Category"
+msgstr ""
+
+#: includes/post-types.php:69
+#, php-format
+msgid "Search %s Categories"
+msgstr ""
+
+#: includes/post-types.php:70
+#, php-format
+msgid "All %s Categories"
+msgstr ""
+
+#: includes/post-types.php:71
+#, php-format
+msgid "Parent %s Category"
+msgstr ""
+
+#: includes/post-types.php:72
+#, php-format
+msgid "Parent %s Category:"
+msgstr ""
+
+#: includes/post-types.php:73
+#, php-format
+msgid "Edit %s Category"
+msgstr ""
+
+#: includes/post-types.php:74
+#, php-format
+msgid "Update %s Category"
+msgstr ""
+
+#: includes/post-types.php:75
+#, php-format
+msgid "Add New %s Category"
+msgstr ""
+
+#: includes/post-types.php:76
+#, php-format
+msgid "New %s Category Name"
+msgstr ""
+
+#: includes/post-types.php:77
+msgid "Categories"
+msgstr ""
+
+#: includes/post-types.php:98
+#, php-format
+msgctxt "taxonomy general name"
+msgid "%s Tags"
+msgstr ""
+
+#: includes/post-types.php:99
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "%s Tag"
+msgstr ""
+
+#: includes/post-types.php:100
+#, php-format
+msgid "Search %s Tags"
+msgstr ""
+
+#: includes/post-types.php:101
+#, php-format
+msgid "All %s Tags"
+msgstr ""
+
+#: includes/post-types.php:102
+#, php-format
+msgid "Parent %s Tag"
+msgstr ""
+
+#: includes/post-types.php:103
+#, php-format
+msgid "Parent %s Tag:"
+msgstr ""
+
+#: includes/post-types.php:104
+#, php-format
+msgid "Edit %s Tag"
+msgstr ""
+
+#: includes/post-types.php:105
+#, php-format
+msgid "Update %s Tag"
+msgstr ""
+
+#: includes/post-types.php:106
+#, php-format
+msgid "Add New %s Tag"
+msgstr ""
+
+#: includes/post-types.php:107
+#, php-format
+msgid "New %s Tag Name"
+msgstr ""
+
+#: includes/post-types.php:108
+msgid "Tags"
+msgstr ""
+
+#: includes/post-types.php:109
+#, php-format
+msgid "Choose from most used %s tags"
+msgstr ""
+
+#: includes/post-types.php:131 includes/admin/settings/set-settings.php:13
+#: includes/admin/settings/set-settings.php:58
+msgid "Product"
+msgstr ""
+
+#: includes/post-types.php:132 includes/admin/settings/set-settings.php:14
+#: includes/admin/settings/set-settings.php:66
+msgid "Products"
+msgstr ""
+
+#: includes/post-types.php:178
+msgid "Name"
+msgstr ""
+
+#: includes/post-types.php:179 includes/meta-box.php:61
+msgid "File"
+msgstr ""
+
+#: includes/post-types.php:182
+msgid "Date"
+msgstr ""
+
+#: includes/meta-box.php:6
+#, php-format
+msgid "%1$s introduce file"
+msgstr ""
+
+#: includes/meta-box.php:68
+msgid "Insert File"
+msgstr ""
+
+#: includes/meta-box.php:68
+msgid "Insert"
+msgstr ""
+
+#: includes/meta-box.php:68
+msgid "Upload a File"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:39
+msgid "General"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:41
+msgid "Extensions"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:54
+msgid "Change Product Name (Single)"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:62
+msgid "Change Product Name (Plural)"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:70
+msgid "Change Slug"
+msgstr ""
+
+#: includes/admin/settings/set-settings.php:209
+msgid "Settings updated."
+msgstr ""
+
+#. Name of the plugin
+msgid "Smartly!"
+msgstr ""
+
+#. Description of the plugin
+msgid "Smart way to show your products on website."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://danbistore.com/item/smartly"
+msgstr ""
+
+#. Author of the plugin
+msgid "Danbilabs"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://danbistore.com"
+msgstr ""

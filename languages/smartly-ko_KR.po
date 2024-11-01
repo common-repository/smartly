@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smartly\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-31 09:39+0000\n"
+"PO-Revision-Date: 2019-10-31 09:41+0000\n"
+"Last-Translator: jukebox <jukebox2911@gmail.com>\n"
+"Language-Team: 한국어\n"
+"Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/admin-pages.php:11 includes/admin/admin-pages.php:12
+msgid "Smartly Settings"
+msgstr "설정"
+
+#: includes/admin-pages.php:11 includes/admin/admin-pages.php:12
+#: includes/admin/settings/display-settings.php:18
+msgid "Settings"
+msgstr "설정"
+
+#: includes/post-types.php:13
+#, php-format
+msgctxt "smartly post type name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: includes/post-types.php:14
+#, php-format
+msgctxt "singular smartly post type name"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: includes/post-types.php:15
+msgid "Add New"
+msgstr "새로 추가"
+
+#: includes/post-types.php:16
+#, php-format
+msgid "Add New %1$s"
+msgstr "%1$s 추가 "
+
+#: includes/post-types.php:17
+#, php-format
+msgid "Edit %1$s"
+msgstr "%1$s 편집"
+
+#: includes/post-types.php:18
+#, php-format
+msgid "New %1$s"
+msgstr "새 %1$s"
+
+#: includes/post-types.php:19
+#, php-format
+msgid "All %2$s"
+msgstr "전체 %2$s"
+
+#: includes/post-types.php:20
+#, php-format
+msgid "View %1$s"
+msgstr "%1$s 보기"
+
+#: includes/post-types.php:21
+#, php-format
+msgid "Search %2$s"
+msgstr "%2$s 검색"
+
+#: includes/post-types.php:22
+#, php-format
+msgid "No %2$s found"
+msgstr "%2$s 을 찾을 수 없습니다"
+
+#: includes/post-types.php:23
+#, php-format
+msgid "No %2$s found in Trash"
+msgstr "%2$s 을 휴지통에서 찾을 수 없습니다"
+
+#: includes/post-types.php:25
+#, php-format
+msgctxt "smartly post type menu name"
+msgid "%2$s"
+msgstr "%2$s"
+
+#: includes/post-types.php:26
+#, php-format
+msgid "%1$s Image"
+msgstr "%1$s 이미지"
+
+#: includes/post-types.php:27
+#, php-format
+msgid "Set %1$s Image"
+msgstr "%1$s 이미지 설정 "
+
+#: includes/post-types.php:28
+#, php-format
+msgid "Remove %1$s Image"
+msgstr "%1$s 이미지 제거"
+
+#: includes/post-types.php:29
+#, php-format
+msgid "Use as %1$s Image"
+msgstr "%1$s 이미지 사용"
+
+#: includes/post-types.php:30
+#, php-format
+msgid "%1$s Attributes"
+msgstr "%1$s 특성"
+
+#: includes/post-types.php:31
+#, php-format
+msgid "Filter %2$s list"
+msgstr "%2$s 목록 필터"
+
+#: includes/post-types.php:32
+#, php-format
+msgid "%2$s list navigation"
+msgstr "%2$s 목록 네비게이션"
+
+#: includes/post-types.php:33
+#, php-format
+msgid "%2$s list"
+msgstr "%2$s 목록"
+
+#: includes/post-types.php:67
+#, php-format
+msgctxt "taxonomy general name"
+msgid "%s Categories"
+msgstr "%s 카테고리"
+
+#: includes/post-types.php:68
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "%s Category"
+msgstr "%s 카테고리"
+
+#: includes/post-types.php:69
+#, php-format
+msgid "Search %s Categories"
+msgstr "검색 %s 카테고리"
+
+#: includes/post-types.php:70
+#, php-format
+msgid "All %s Categories"
+msgstr "전체 %s 카테고리"
+
+#: includes/post-types.php:71
+#, php-format
+msgid "Parent %s Category"
+msgstr "상위 %s 카테고리"
+
+#: includes/post-types.php:72
+#, php-format
+msgid "Parent %s Category:"
+msgstr "상위 %s 카테고리"
+
+#: includes/post-types.php:73
+#, php-format
+msgid "Edit %s Category"
+msgstr "%s 카테고리 편집"
+
+#: includes/post-types.php:74
+#, php-format
+msgid "Update %s Category"
+msgstr "%s 카테고리 업데이트"
+
+#: includes/post-types.php:75
+#, php-format
+msgid "Add New %s Category"
+msgstr " %s 카테고리 추가"
+
+#: includes/post-types.php:76
+#, php-format
+msgid "New %s Category Name"
+msgstr "새 %s 카테고리 이름"
+
+#: includes/post-types.php:77
+msgid "Categories"
+msgstr "카테고리"
+
+#: includes/post-types.php:98
+#, php-format
+msgctxt "taxonomy general name"
+msgid "%s Tags"
+msgstr "%s 태그"
+
+#: includes/post-types.php:99
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "%s Tag"
+msgstr "%s 태그"
+
+#: includes/post-types.php:100
+#, php-format
+msgid "Search %s Tags"
+msgstr "%s 태그 검색"
+
+#: includes/post-types.php:101
+#, php-format
+msgid "All %s Tags"
+msgstr "전체 %s 태그"
+
+#: includes/post-types.php:102
+#, php-format
+msgid "Parent %s Tag"
+msgstr "상위 %s 태그"
+
+#: includes/post-types.php:103
+#, php-format
+msgid "Parent %s Tag:"
+msgstr "상위 %s 태그:"
+
+#: includes/post-types.php:104
+#, php-format
+msgid "Edit %s Tag"
+msgstr "%s 태그 편집"
+
+#: includes/post-types.php:105
+#, php-format
+msgid "Update %s Tag"
+msgstr "%s 태그 업데이트"
+
+#: includes/post-types.php:106
+#, php-format
+msgid "Add New %s Tag"
+msgstr "%s 태그 추가"
+
+#: includes/post-types.php:107
+#, php-format
+msgid "New %s Tag Name"
+msgstr "새로운 %s 태그 이름"
+
+#: includes/post-types.php:108
+msgid "Tags"
+msgstr "태그"
+
+#: includes/post-types.php:109
+#, php-format
+msgid "Choose from most used %s tags"
+msgstr "가장 많이 사용 된 %s 태그에서 선택"
+
+#: includes/post-types.php:131 includes/admin/settings/set-settings.php:13
+#: includes/admin/settings/set-settings.php:58
+msgid "Product"
+msgstr "제품"
+
+#: includes/post-types.php:132 includes/admin/settings/set-settings.php:14
+#: includes/admin/settings/set-settings.php:66
+msgid "Products"
+msgstr "제품"
+
+#: includes/post-types.php:178
+msgid "Name"
+msgstr "이름"
+
+#: includes/post-types.php:179 includes/meta-box.php:61
+msgid "File"
+msgstr "파일"
+
+#: includes/post-types.php:182
+msgid "Date"
+msgstr "일자"
+
+#: includes/meta-box.php:6
+#, php-format
+msgid "%1$s introduce file"
+msgstr "%1$s 소개서"
+
+#: includes/meta-box.php:68
+msgid "Insert File"
+msgstr "파일 추가"
+
+#: includes/meta-box.php:68
+msgid "Insert"
+msgstr "첨부"
+
+#: includes/meta-box.php:68
+msgid "Upload a File"
+msgstr "파일 올리기"
+
+#: includes/admin/settings/set-settings.php:39
+msgid "General"
+msgstr "일반"
+
+#: includes/admin/settings/set-settings.php:41
+msgid "Extensions"
+msgstr "확장"
+
+#: includes/admin/settings/set-settings.php:54
+msgid "Change Product Name (Single)"
+msgstr "제품 이름 변경 (단수)"
+
+#: includes/admin/settings/set-settings.php:62
+msgid "Change Product Name (Plural)"
+msgstr "제품 이름 변경 (복수)"
+
+#: includes/admin/settings/set-settings.php:70
+msgid "Change Slug"
+msgstr "제품 슬러그 변경"
+
+#: includes/admin/settings/set-settings.php:209
+msgid "Settings updated."
+msgstr "설정이 업데이트 되었습니다."
+
+#. Name of the plugin
+msgid "Smartly!"
+msgstr "스마틀리"
+
+#. Description of the plugin
+msgid "Smart way to show your products on website."
+msgstr "홈페이지에 당신의 제품을 보여주는 스마트한 방법."
+
+#. URI of the plugin
+msgid "https://danbistore.com/item/smartly"
+msgstr "https://danbistore.com/item/smartly"
+
+#. Author of the plugin
+msgid "Danbilabs"
+msgstr "단비랩스"
+
+#. Author URI of the plugin
+msgid "https://danbistore.com"
+msgstr "https://danbistore.com"

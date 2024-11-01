@@ -1,0 +1,22 @@
+.smartly_upload_field_anchor {
+    margin-top: 15px;
+    clear: both;
+    background: #f1f1f1;
+    border: 1px solid #e5e5e5;
+}
+
+.smartly_upload_field_container {
+    background: #f9f9f9;
+    padding: 8px;
+    border-width: 0 1px 1px;
+    border-style: solid;
+    border-color: #e5e5e5;
+}
+
+.smartly_data_metabox .smartly_catalogue_file_field {
+    width: 75%;
+}
+
+.smartly_upload_field_container a.smartly_upload_file_button {
+    margin-left: 10px;
+}
